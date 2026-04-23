@@ -1,1 +1,9 @@
-[]
+[
+  { "id": "barbarian", "name": "Barbarian" },
+  { "id": "sorcerer", "name": "Sorcerer" },
+  { "id": "rogue", "name": "Rogue" },
+  { "id": "druid", "name": "Druid" },
+  { "id": "necromancer", "name": "Necromancer" },
+  { "id": "paladin", "name": "Paladin" },
+  { "id": "warlock", "name": "Warlock" }
+]
