@@ -4,5 +4,11 @@
     "name": "Fireball",
     "class": "sorcerer",
     "type": "core"
+  },
+  {
+    "id": "Rogue_Flurry",
+    "name": "Flurry",
+    "class": "rogue",
+    "type": "core"
   }
 ]
